@@ -1,0 +1,10 @@
+1 pepa navarro garcía pepa@mordor.es 1957-06-28 gerente
+2 luna garcía navarro luna@mordor.es 1973-02-14 gerente
+3 manuel gonzález garmendia manuel@mordor.es 1963-09-09 comercial
+4 joaquin ferrando gabarda joaquin@mordor.es 1977-11-11 comercial
+5 vicente cascales martínez vicente@mordor.es 1987-11-09 administrativo
+6 jose hurtado fernández jose@mordor.es 1993-04-10 administrativo
+7 carmen esteve gonzález carmen@mordor.es 1999-04-27 administrativo
+8 nuria sanz taus nuria@mordor.es 2000-08-04 mecanico
+9 cindy peris sancho cindy@mordor.es 1988-07-03 mecanico
+10 vanesa codina andújar vanesa@mordor.es 1983-06-19 mecanico
